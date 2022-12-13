@@ -1,0 +1,11 @@
+--- Boundaries
+0: same target, same angle.
+1: same target, different angle.
+2: different target.
+
+--- Quality
+0: definite reject on the basis of quality (relative to observation instances)
+1: possibly accept/reject on the basis of quality (relative to observation instances)
+2: definite accept on the basis of quality (relative to observation instances)
+
+Note: some observations might have all photographs with the same label (e.g. 0)  

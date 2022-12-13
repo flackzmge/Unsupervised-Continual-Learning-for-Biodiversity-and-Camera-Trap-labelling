@@ -1,0 +1,3 @@
+0: same target, same angle.
+1: same target, different angle.
+2: different target.

@@ -1,0 +1,23 @@
+# Completed / frozen versions
+
+v0.0.1 - Adapted Kathuria's code to auto-curation data. Simple k-means; no adaptive thresholds.
+v0.0.2 - Add code to visualize centroids.
+v0.0.3 - Add simple performance metrics.
+v0.0.4 - Improve initialization; bug fixes; tweaks.
+v0.0.5-test2 - Built from v0.0.4. Test different k in terms of clustering quality.
+v0.0.6 - Built from v0.0.5-test2. Added oher clustering quality measures.
+v0.0.7 - Based on v0.0.6. Use a pre-trained network for feature extraction.
+v0.0.8 - Fixed memory leak.
+v0.0.9 - Simple batch clustering version.
+
+# In preparation
+
+* N/A
+
+# Following versions
+
+- Further tweaks to improve vanilla k-means.
+
+# Deprecated
+
+v0.0.5-test1 - Built from v0.0.4. Add adaptive thresholds.

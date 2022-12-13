@@ -1,0 +1,4 @@
+* Start counting at 1.
+* Boundaries are counted relative to actual file indices (not filenames)
+* A boundary is indicated as the last index of a particular observation. For example if we have [obs1, obs1, obs2, obs2, obs2, ...] the first boundary is at "2" (i.e. at the last image of observation 1, where counting starts at 1).
+* The final image in the folder is not considered a boundary. Do not include the index of the last file/image in the boundaries file.
